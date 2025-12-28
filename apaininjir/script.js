@@ -36,7 +36,7 @@ const API_CONFIG = {
 let activePlatform = 'tiktok';
 
 const exampleUsernames = {
-    tiktok: 'yyanzxd',
+    tiktok: 'draksangel_tryy',
     instagram: 'google',
     github: 'TheyanzXD',
     npm: 'naruyaizumi',
